@@ -10,3 +10,8 @@
 6. Podríamos considerar que el procesamiento es un proceso de "adaptación" del texto plano para realizar el cifrado.
 7. Otra técnica usada en preprocesamiento es la eliminación de signos de puntuación y espacios en blanco, pareciera que no tienen mucha importancia, sin embargo, esta técnica ayuda mucho en el proceso de cifrado, sobretodo por la eliminación de espacios en blanco que hacen que el texto plano se convierta en una sola "palabra" que permite una mayor facilidad en el proceso de cifrado.
 8. En general, la implementación de la mayoría de técnicas para realizar el preprocesamiento no generan mucha dificultad, siempre y cuanado se disponga del tiempo y paciencia necesarios. 
+
+### CUESTIONARIO FINAL
+
+#### 1. Describa los siguientes términos
+* Protección y seguridad de datos
