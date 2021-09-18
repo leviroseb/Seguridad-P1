@@ -14,4 +14,10 @@
 ### CUESTIONARIO FINAL
 
 #### 1. Describa los siguientes términos
-* Protección y seguridad de datos
+* Protección y seguridad de datos: Como el mismo nombre lo indica es la protección de la privacidad digital, y que se aplica para evitar el acceso no autorizado a los datos almacenados.
+* Criptografía: Conjunto de técnicas que permiten modificar o alterar mensajes o archivos con el objetivo de "ocultar" el mensaje y que no puedan ser leídos por personas ajenas.
+* Seguridad y fortificación de redes: Es la capacidad de brindar seguridad y organizar de forma adecuada las redes que se usan, puede ser deuna empresa, institución, etc.
+* Seguridad en aplicaciones informáticas, programas y bases de datos: Son las medidas de seguridad que se implementan a nivel de la aplicación o programa desarrollado, y también a nivel de la base de datos utilizada
+* Gestión de seguridad en equipos y sistemas informáticos: Capacidad de garantizar la confidencialidad, integración y disponibilidad del sistema informático, así como el uso adecuado y seguro de los equipos que intervienen.
+* Informática forense: Es el proceso de capturar, identificar, extraer y documentar una evidencia digital para su uso posterior en una demanda.
+* Ciberdelito, ciberseguridad: El ciberdelito o delito informático es todo aquel acto ilegal realizado por un ciberdelincuente en el espacio digital a través de las redes informáticas y diversos dispositivos electrónicos, la ciberseguridad es el campo de la tecnología de la información asociado con la seguridad de los sistemas informáticos y la protección de datos, y en contra de ataques maliciosos o ataques informáticos en el mundo digital.
