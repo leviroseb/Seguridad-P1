@@ -38,3 +38,7 @@ La máquina Enigma utilizada por la mayor parte de las comunicaciones alemanas d
 ![img](images/ENIGMA2.png)
 ![img](images/ENIGMA3.png)
 
+
+### 5. Describa la aplicación de Unicode-8
+UTF-8 es una codificación de caracteres de 8 bits para Unicode. La abreviatura “UTF-8” procede de “8-bit Unicode Transformation Format”, en español, formato de transformación Unicode de 8 bits. Se crea un número binario legible por ordenador que consta de uno a cuatro bytes, cada uno de los cuales está formado por ocho bits. Esta codificación se asigna a un carácter o a otro elemento textual. La estructura autosincronizada y la capacidad de generar 221 números binarios permite asignar de manera inconfundible todos y cada uno de los elementos lingüísticos y textuales de todos los idiomas del mundo.
+
