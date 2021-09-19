@@ -34,3 +34,7 @@
 ### 4. Describa la máquina enigma, luego muestre usando un simulador en internet la encriptación de la frase QUERIDA HIJA, para tres posiciones distintas de los rotores
 La máquina Enigma utilizada por la mayor parte de las comunicaciones alemanas durante la guerra tenía un funcionamiento complejo. Se basaba en cinco rotores que variaban cada vez que se pulsaba una tecla, de manera que cada letra del alfabeto ofrecía un número altísimo de posibilidades. El Ejército alemán complicaba más las cosas cambiando la posición de los rotores una vez al mes. Los mandos alemanes de la época veían a Enigma como indescifrable. Esta máquina se conocía dentro de  la Fuerza como “Eins” (modelo uno) o “Wermarcht Enigma” (modelo W) y entró en servicio el 1 de Junio  de 1930. Era capaz de “mezclar” el texto de los mensajes de  200 quintillones de formas diferentes. Y  con la  clave correcta, volverlo a la normalidad. Se transformó rápidamente en el  código secreto indescifrable de las Fuerzas Armadas. O al  menos eso creían los alemanes. La clave del Enigma queda determinada por la  estructura interna de los rotores y por su posición inicial. Los  rotores podían ser de nueve tipos distintos, en los modelos empleados por el ejército alemán, y de cuatro tipos en  los modelos utilizados por la marina,  tenían que  sustituirse  con frecuencia  para evitar que los criptoanalistas enemigos consiguieran alguna pista.
 
+![img](images/ENIGMA1.PNG)
+![img](images/ENIGMA2.PNG)
+![img](images/ENIGMA3.PNG)
+
